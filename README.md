@@ -3,9 +3,13 @@
 
 # small-change
 
+## screenshots
 ![Load Main Page](readme-assets/main-page1.png) 
+
 ![Load Login](readme-assets/login.png) 
+
 ![Load User Menu](readme-assets/user-menu.png) 
+
 ![Load Recycling Submission](readme-assets/recycling-submission.png)  
 
 * Ruby version
